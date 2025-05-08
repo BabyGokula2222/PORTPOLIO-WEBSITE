@@ -464,9 +464,9 @@ information.
     <link rel="stylesheet" href="portfolio.css" />
 </head>
 <body>
-    <section id="Certifications" class="section">
+    <section id="Languages" class="section">
         <div class="container7">
-          <h1><u>Certifications<u></u></h1>
+          <h1><u>Languages<u></u></h1>
           <h2>Languages:</h2> <p>1.English (Professional Proficiency)</p>
           <p>2.Telugu (Native Speaker)</p>
 </div>
