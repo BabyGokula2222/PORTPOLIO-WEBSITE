@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    color: #0f0e0e;
+    background:rgb(17, 16, 16);
+    line-height: 1.6;
+    text-align: center;
+    padding: 2rem 0;
+    content: var(center);
+  }
+  div{
+    font-display: center;
+    text-align: center;
+  }
+  h1{
+    font-size: xx-large;
+    color: orangered;
+    font-weight: 5000;
+  }
+  h2{
+    font-size: x-large;
+    color: #10ac25;
+    font-weight: 3000;
+    
+  }
+  p{
+    color: rgb(250, 11, 90);
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+  }
+  
+
+  
+  
+  nav ul {
+    list-style: none;
+    margin-top: 1rem;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #a50ad4;
+    font-weight: bold;
+  }
+  
+  .section {
+    padding: 4rem 0;
+    background:rgb(32, 31, 31);
+  }
+  .container1 h1{
+    font-weight: 5000;
+    color:rgb(7, 233, 233);
+}
+.container1 p{
+    font-size: x-large;
+    font-weight: 700;
+    color: chocolate;
+
+}
+.container2 h1{
+    font-weight: 5000;
+    color:rgb(7, 233, 233);
+
+}
+.container2 p{
+    font-size: x-large;
+    font-weight: 700;
+    color: chocolate;
+}
+
+    .container3 h1{
+        font-weight: 5000;
+        color:rgb(7, 233, 233);
+    
+    }
+    .container3 p{
+        font-size: x-large;
+        font-weight: 700;
+        color: chocolate;
+    }
+
+    .container4 h1{
+        font-weight: 5000;
+        color:rgb(7, 233, 233);
+    }
+        .container4 h3{
+            font-weight: 5000;
+            color:rgb(233, 7, 195);
+    }
+    .container4 p{
+        font-size: x-large;
+        font-weight: 700;
+        color: chocolate;
+    }
+    .container4 h2{
+        color: #10ac25;
+    }
+
+
+    .container5 h1{
+        font-weight: 5000;
+        color:rgb(7, 233, 233);
+    
+    }
+    .container5 p{
+        font-size: x-large;
+        font-weight: 700;
+        color: chocolate;
+    }
+
+
+    .container6 h1{
+        font-weight: 5000;
+        color:rgb(7, 233, 233);
+    
+    }
+    .container6 p{
+        font-size: x-large;
+        font-weight: 700;
+        color: chocolate;
+    }
+
+
+
+    .container7 h1{
+        font-weight: 5000;
+        color:rgb(7, 233, 233);
+    
+    }
+    .container7 p{
+        font-size: x-large;
+        font-weight: 700;
+        color: chocolate;
+    }
+    .container7 h2{
+        color: #10ac25;
+    }
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+    font-size: 1.2rem;
+    color: #141414;
+    
+  }
+  
+  .skills-list li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+  }
+  
+  .project-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    text-align: center;
+  }
+  
+  .project-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form input, form textarea {
+    margin-bottom: 1rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  form button {
+    padding: 10px;
+    background: #282c34;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 2rem 0;
+    background: #282c34;
+    color: white;
+  }
+  
